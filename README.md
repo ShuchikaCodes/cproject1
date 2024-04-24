@@ -2,8 +2,7 @@ Clothing store billing System
 
 This project implements a simple clothing store billing system using C. It allows users to manage inventory, input customer information, display available items, and generate bills for purchases.
 
-Files used
-
+Files used:
 -main.c: The main file containing the entry point of the program and the main logic.
 
 -customer.c and customer.h: Files related to customer information handling.
@@ -12,8 +11,12 @@ Files used
 
 -Makefile: A makefile script for easy compilation of the project.
 
-Usage
+-Config file: Stores username and password for all the users.
+
+Usage:
 
 -To compile the project using a makefile.
+
+
 
 
