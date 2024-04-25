@@ -1,4 +1,5 @@
 Clothing Store Management System
+
 This project implements a simple clothing store billing and management system using C. It allows users to manage inventory, input customer information, display available items, and generate bills for purchases.
 
 #Files
