@@ -4,9 +4,9 @@ This project implements a simple clothing store billing and management system us
 
 #Files
 
-Customer.c and customer.h: Files related to login information(username and password).
+Customer.c and customer.h : Files related to login information(username and password).
 
-Store.c and store.h :Files containing item information.
+Store.c and store.h : Files containing item information.
 
 Makefile : A makefile script for easy compilation of the project.
 
