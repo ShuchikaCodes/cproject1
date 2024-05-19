@@ -1,0 +1,8 @@
+Shirt,1500
+Pants,2000
+Jacket,2500
+Sweater,2000
+Caps,1000
+Socks,300
+Tie,500
+Bags,5000
