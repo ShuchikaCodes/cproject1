@@ -14,6 +14,8 @@ Config file : Stores the username and passwowrd
 
 Customer: Main file
 
+Inventory: Text file to store inventory
+
 #Usage
 
 -To compile the project, navigate to the project directory and run the following command:
